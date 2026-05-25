@@ -1,0 +1,11 @@
+transaction_id,client_id,client_name,amount,currency,transaction_date,region
+1001,1,John Smith,5000,CHF,2026-05-20,Europe
+1002,2,Maria Garcia,12000,CHF,2026-05-21,Europe
+1003,3,Tshepo Tau,-500,CHF,2026-05-20,Africa
+1004,1,John Smith,7500,CHF,2026-05-22,Europe
+1005,4,Wei Zhang,0,CHF,2026-05-21,Asia
+1006,2,Maria Garcia,3000,CHF,2026-05-23,Europe
+1007,3,Tshepo Tau,8000,CHF,2026-05-22,Africa
+1008,5,James Brown,20000,CHF,2026-05-20,North America
+1009,1,John Smith,-100,CHF,2026-05-23,Europe
+1010,4,Wei Zhang,4500,CHF,2026-05-24,Asia
